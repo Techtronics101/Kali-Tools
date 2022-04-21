@@ -23,7 +23,7 @@ print("")
 
 subprocess.call("iwconfig" , shell=True)
 
-interface = raw_input("Wifi Interface Name >  ")
+interface = input("Wifi Interface Name >  ")
 
 
 try: 
