@@ -14,9 +14,9 @@ print(r"""
   
     """)
 print("\n****************************************************************")
-print("\n* Copyright of Techtronics 101, 2021                              *")
+print("\n* Copyright of Techtronics 101, 2022                              *")
 print("\n* https://techtronics101.com                                  *")
-print("\n* https://www.youtube.com/techtronics101                          *")
+print("\n* https://www.youtube.com/c/techtronics101                          *")
 print("\n****************************************************************")
 print("\n INTERFACES")
 print("")
