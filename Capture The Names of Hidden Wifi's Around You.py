@@ -35,8 +35,8 @@ try:
 
 except KeyboardInterrupt:
     print("\nReady to make choice.")
-    bssid = raw_input("BSSID >")
-    channel = raw_input("CHANNEL >")
+    bssid = input("BSSID >")
+    channel = input("CHANNEL >")
     #station  = raw_input("STATION >")
     #subprocess.call("aireplay-ng --deauth 4 -a " + bssid + " " + interface + " </dev/null &>/dev/null & " , shell=True )
     #subprocess.call("airodump-ng --bssid  " + bssid + " -c " + channel + " " +interface , shell=True )
